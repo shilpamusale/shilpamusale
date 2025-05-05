@@ -1,8 +1,8 @@
-name: GitHub Metrics
+name: Metrics Activity
 
 on:
-  schedule: [{cron: "0 * * * *"}]  # updates every hour
-  push: {branches: ["main"]}
+  schedule:
+    - cron: "0 0 * * *"  # runs daily
   workflow_dispatch:
 
 jobs:
@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.activity.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.plugin.activity.svg
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
