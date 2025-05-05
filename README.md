@@ -1,16 +1,104 @@
-## Hi there 👋
+<!-- README.md for https://github.com/ishi3012 -->
 
-<!--
-**ishi3012/ishi3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Shilpa Musale</h1>
+<h3 align="center">AI/ML Engineer | GenAI Systems | Healthcare AI | Recommender & Predictive Modeling</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://ishi3012.github.io/ishi-ai/">🌐 Portfolio</a> |
+  <a href="https://ishi3012.github.io/the-code-diary/index.html">📝 Blog</a> |
+  <a href="https://www.linkedin.com/in/shilpamusale/">💼 LinkedIn</a> |
+  <a href="mailto:shilpa.musale02@gmail.com">📬 Email</a> |
+  <!-- <a href="https://ishi3012.github.io/ishi-ai/resume.pdf">📄 Resume</a> -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+🔹 **AI/ML Engineer** with 12+ years in scalable systems and 1.5+ years in applied machine learning research  
+🔹 Specialized in **GenAI**, **LLM architectures**, **recommender systems**, and **document understanding**  
+🔹 Deep experience in **healthcare AI**: claim denial prediction, ED readmission modeling, syndemics analysis  
+🔹 Hands-on with **MLOps**, **RL-based ranking**, and **semantic retrieval** pipelines  
+🔹 Publication: *[Predicting ED Readmissions with Community Health Workers (IJSC, Apr 2024)](https://www.researchgate.net/publication/379475084_Leveraging_community_health_workers_for_predicting_emergency_department_readmissions)*
+
+---
+
+### 🚀 Projects 
+
+| Project | Summary |
+|--------|---------|
+| 🥗 [Clinical Diet Assistant](https://github.com/ishi3012/nutri-sage) | A GenAI assistant for personalized nutrition advice using RAG, LLMs, and document understanding |
+| 🎬 [CineSense](https://github.com/ishi3012/cine_sense_rl_rag) | LLM-based movie recommender with Sentence-BERT embeddings & RL ranking |
+| 🧬 [OncoMatch (in progress)](https://github.com/ishi3012/onco-match) | Scalable GenAI pipeline for oncology research using Sentence-BERT, cosine similarity, and RL-based re-ranking with FastAPI deployment planned |
+| 🧾 [ClaimFlowEngine](https://github.com/ishi3012/claim-flow-engine) | RL-style workflow engine for routing healthcare claims based on complexity, payer specialization, and team expertise; includes denial prediction and appeal scoring models using XGBoost and Random Forest |
+| 🏥 [Readmission Prediction](https://github.com/ishi3012/predict_readmit_ml) | Predictive modeling for high-risk ED patients using clustering + classification |
+| 🧪 [Syndemics ML](https://github.com/ishi3012/syndemics-ml) | Unsupervised learning to uncover biosocial disease interaction patterns |
+---
+
+### 📚 Latest from My Blog
+
+- 🎥 **[Personalizing Entertainment: The Math & Magic Behind Movie Suggestions](https://ishi3012.github.io/the-code-diary/Recommendation_system/recommendation_intro.html)**  
+  *Smart way of recommendation*  
+  🗓️ Posted by Shilpa Musale (Ishi) on February 1, 2025
+
+- 🥗 **[Designing NutriBot: A Domain-Aware AI Assistant for Diet & Wellness](https://ishi3012.github.io/the-code-diary/NutriBot/NutriBot_intro.html)**  
+  *Behind the Scenes: How We Combined LLMs, Vector Search, and RAG for Smarter Diet Plans*  
+  🗓️ Posted by Shilpa Musale (Ishi) on February 1, 2025
+
+- 🏥 **[Leveraging Community Health Workers for Predicting ED Readmissions](https://ishi3012.github.io/the-code-diary/Sinai/sinai_intro.html)**  
+  *Supervised and Unsupervised Machine Learning Approaches for ED Readmission Prediction Using Community Health Worker and SDoH-Enriched Data*  
+  🗓️ Posted by Shilpa Musale (Ishi) on November 14, 2024
+
+- 🧬 **[Unlocking the Syndemics Approach: How Machine Learning Reveals Disease Interactions](https://ishi3012.github.io/the-code-diary/Syndemics/syndemics_intro.html)**  
+  *Exploring Syndemic Disease Patterns Using Unsupervised Learning with KMeans and KModes Clustering*  
+  🗓️ Posted by Shilpa Musale (Ishi) on December 12, 2024
+
+- 🤖 **[Reinforcement Learning Unveiled: A Journey Through Concepts, Algorithms, and Applications](#)**  
+  *Exploring Q-Learning, SARSA, and Policy Gradients with Practical Implementations and Visualizations*  
+  🗓️ Posted by Shilpa Musale (Ishi) on January 24, 2025
+
+- 📡 **[Claims to Clarity: Building a Real-Time Healthcare Data Pipeline](#)**  
+  *Designing a Scalable Healthcare Data Pipeline with Kafka, Azure Data Lake, and Stream Processing for EDI Claims*  
+  🗓️ Posted by Shilpa Musale (Ishi) on February 11, 2025
+
+- 🎓 **[Beyond Chatbots: An AI-Powered Learning Assistant for the Future](#)**  
+  *Revolutionizing Digital Education with AI-Powered Assistants That Think, Retrieve, and Explain Like a Human Mentor*  
+  🗓️ Posted by Shilpa Musale (Ishi) on January 24, 2025
+
+---
+
+### 🧠 Skills & Tools
+
+**ML & GenAI**: BERT, GPT, LangChain, RAG, Sentence-BERT, XGBoost, RL (PPO)  
+**Frameworks**: PyTorch, TensorFlow, Scikit-learn, NLTK, OpenCV  
+**MLOps**: MLflow, FastAPI, Docker, CI/CD (GitHub Actions), AWS Bedrock  
+**Cloud & Data**: AWS, S3, SQL, Snowflake, IMDb/MovieLens  
+**Languages**: Python, SQL
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishi3012&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishi3012&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishi3012&theme=default" />
+</p>
+
+
+
+---
+### 🔄 Activity Breakdown
+
+<img src="https://github.com/ishi3012/ishi3012/blob/main/metrics.plugin.activity.svg" alt="GitHub activity radar chart" />
+
+
+### 🤝 Let's Connect
+
+💼 [LinkedIn](https://linkedin.com/in/shilpamusale)  
+🌐 [Portfolio](https://ishi3012.github.io/ishi-ai/)  
+📬 shilpa.musale02@gmail.com
+
+---
+
+> *“Turning real-world problems into scalable AI solutions — one model at a time.”*
