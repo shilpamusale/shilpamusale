@@ -67,13 +67,41 @@
 
 ---
 
-### 🧠 Skills & Tools
+### 🛠️ My Stack
 
-**ML & GenAI**: BERT, GPT, LangChain, RAG, Sentence-BERT, XGBoost, RL (PPO)  
-**Frameworks**: PyTorch, TensorFlow, Scikit-learn, NLTK, OpenCV  
-**MLOps**: MLflow, FastAPI, Docker, CI/CD (GitHub Actions), AWS Bedrock  
-**Cloud & Data**: AWS, S3, SQL, Snowflake, IMDb/MovieLens  
-**Languages**: Python, SQL
+#### 🧠 ML & GenAI
+![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-333?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Generative AI](https://img.shields.io/badge/GENERATIVE%20AI-333?style=for-the-badge&logo=openai&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-333?style=for-the-badge&logo=google&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-333?style=for-the-badge&logo=openai&logoColor=white)
+![Sentence-BERT](https://img.shields.io/badge/SENTENCE--BERT-333?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-333?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT%20ENGINEERING-333?style=for-the-badge)
+
+#### 🧰 LLM Tooling
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-333?style=for-the-badge&logo=openai&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vertex AI SDK](https://img.shields.io/badge/Vertex%20AI%20SDK-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+#### 🔬 Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-333?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### ⚙️ MLOps & Deployment
+![MLflow](https://img.shields.io/badge/MLflow-333?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-333?style=for-the-badge)
+
+#### ☁️ Cloud & Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 
@@ -81,7 +109,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishi3012&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishi3012&layout=compact" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishi3012&layout=compact" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishi3012&theme=default" />
 </p>
 
@@ -100,5 +128,7 @@
 📬 shilpa.musale02@gmail.com
 
 ---
+
+
 
 > *“Turning real-world problems into scalable AI solutions — one model at a time.”*
