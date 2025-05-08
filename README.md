@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-🔹 **AI/ML Engineer** with 12+ years in scalable systems and 1.5+ years in applied AI/ML Engineer.  
+🔹 **AI/ML Engineer** with 10+ years in scalable systems and 1.5+ years in applied AI/ML Engineer.  
 🔹 Specialized in **GenAI**, **LLM architectures**, **recommender systems**, and **document understanding**  
 🔹 Deep experience in **healthcare AI**: claim denial prediction, ED readmission modeling, syndemics analysis  
 🔹 Hands-on with **MLOps**, **RL-based ranking**, and **semantic retrieval** pipelines  
