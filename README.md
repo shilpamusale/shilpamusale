@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/shilpamusale.png" width="120" style="border-radius:50%;" alt="Shilpa Musale"/>
-</p>
+</p> -->
 
 <h1 align="center">Shilpa Musale</h1>
 <p align="center"><em>AI/ML Engineer | Healthcare AI &amp; Recommender Systems</em></p>
