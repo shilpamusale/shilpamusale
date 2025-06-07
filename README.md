@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shilpamusale">🔗 LinkedIn</a> •
-  <a href="mailto:shilpa@example.com">✉️ Email</a> •
+  <a href="mailto:shilpa.musale02@gmail.com">✉️ Email</a> •
   <a href="https://shilpamusale.github.io/ishi-ai">🌐 Portfolio</a>
 </p>
 
