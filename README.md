@@ -18,7 +18,7 @@
 
 ---
 
-## 🔭 Current Projects
+## Current Projects
 
 | Project                         | Description                                                                                           | Link                                                                                          |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -29,7 +29,7 @@
 
 ---
 
-## 📈 Quick Stats
+## Quick Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpamusale&amp;theme=default" alt="GitHub Streak"/>
@@ -42,7 +42,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -59,20 +59,20 @@
 
 ---
 
-## 🎯 Mission
+## Mission
 
 > “Leverage cutting-edge AI to make healthcare more proactive and entertainment more personalized.”  
 
 ---
 
-## ✨ Featured Publications & Talks
+## Featured Publications & Talks
 
 - **Leveraging CHWs for ED Readmission Prediction** – *Int’l Journal of Semantic Computing, Apr 2024*  
 *(More on my [Blog](https://github.com/shilpamusale/the-code-diary))*  
 
 ---
 
-## 📫 Connect
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/shilpamusale">🔗 LinkedIn</a> •
