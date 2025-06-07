@@ -1,51 +1,14 @@
-<!-- <p align="center">
-  <img src="https://github.com/shilpamusale.png" width="120" style="border-radius:50%;" alt="Shilpa Musale"/>
-</p> -->
+# Shilpa Musale
 
-<h1 align="center">Shilpa Musale</h1>
-<p align="center"><em>AI/ML Engineer | Healthcare AI &amp; Recommender Systems</em></p>
-<p align="center">
-  Building scalable ML pipelines and recommendation engines to drive impact in HealthTech &amp; Entertainment.
-</p>
+*AI/ML Engineer | Healthcare AI & Recommender Systems*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/CI/CD-0052CC?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-</p>
-
----
-
-## Current Projects
-
-| Project                         | Description                                                                                           | Link                                                                                          |
-|---------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Claim-Flow-Engine**           | End-to-end ML pipeline for healthcare claim denial prediction, clustering, & routing (Streamlit + API) | [Repo](https://github.com/shilpamusale/claim-flow-engine)                                     |
-| **ReadmitRx**                   | ED readmission risk scoring & CHW intervention optimizer, domain-agnostic design                       | [Repo](https://github.com/shilpamusale/ReadmitRx)                                             |
-| **MedSentinel**                 | GenAI-powered medical Q&A agent with CoT prompting, fallback abstention, & Streamlit UI               | [Repo](https://github.com/shilpamusale/medsentinel)                                           |
-| **RecMindX (coming soon)**      | Netflix-style recommender system using MovieLens & Two-Tower Transformers                             | *(In Progress)*                                                                               |
-
----
-
-## Quick Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpamusale&amp;theme=default" alt="GitHub Streak"/>
-</p>
-
-- **Experience:** 3+ years in ML/AI engineering  
-- **Publications:** 1 peer-reviewed healthcare AI paper  
-- **Key Domains:** HealthTech, Recommender Systems, MLOps  
- 
-
----
+Building scalable ML pipelines and recommendation engines to drive impact in HealthTech & Entertainment.
 
 ## Skills & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<p align="left">
+  <!-- Tech Stack Badges -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -59,24 +22,42 @@
 
 ---
 
+## Current Projects
+
+| Project                                                                 | Description                                                                                         |
+|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **[Claim-Flow-Engine](https://github.com/shilpamusale/claim-flow-engine)** | End-to-end ML pipeline for healthcare claim denial prediction, clustering, and routing (Streamlit + API) |
+| **[ReadmitRx](https://github.com/shilpamusale/ReadmitRx)**               | ED readmission risk scoring and CHW intervention optimizer, domain-agnostic design                   |
+| **[MedSentinel](https://github.com/shilpamusale/medsentinel)**           | GenAI-powered medical Q&A agent with chain-of-thought prompting, fallback abstention, and Streamlit UI |
+| **RecMindX (coming soon)**                                              | Netflix-style two-tower recommender system built on MovieLens                                        |
+
+**Roadmap →** Next up: **RecMindX** – building a Netflix-style two-tower recommender with MovieLens.
+
+---
+
+## Quick Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shilpamusale&theme=default)
+
+- **Experience:** 3+ years in ML/AI engineering  
+- **Publications:** 1 peer-reviewed healthcare AI paper  
+- **Key Domains:** HealthTech, Recommender Systems, MLOps  
+
+---
+
 ## Mission
 
-> “Leverage cutting-edge AI to make healthcare more proactive and entertainment more personalized.”  
+> Leverage cutting-edge AI to make healthcare more proactive and entertainment more personalized.
 
 ---
 
-## Featured Publications & Talks
+## Featured Publications
 
-- **Leveraging CHWs for ED Readmission Prediction** – *Int’l Journal of Semantic Computing, Apr 2024*  
-*(More on my [Blog](https://github.com/shilpamusale/the-code-diary))*  
+- **Leveraging CHWs for ED Readmission Prediction** – *International Journal of Semantic Computing, April 2024*  
+
+More on my [Blog](https://github.com/shilpamusale/the-code-diary)
 
 ---
-
 ## Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/shilpamusale">🔗 LinkedIn</a> •
-  <a href="mailto:shilpa.musale02@gmail.com">✉️ Email</a> •
-  <a href="https://shilpamusale.github.io/ishi-ai">🌐 Portfolio</a>
-</p>
-
+[LinkedIn](https://linkedin.com/in/shilpamusale)  | [Email](mailto:shilpa.musale02@gmail.com) | [Portfolio](https://shilpamusale.github.io/ishi-ai)  
