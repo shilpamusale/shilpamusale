@@ -1,8 +1,17 @@
 # Shilpa Musale
 
-*AI/ML Engineer | Healthcare AI & Recommender Systems*
+*AI/ML Engineer | Generative AI & Personalization | LLMs, RAG, Agentic AI, Hallucination Mitigation | MLOps | HealthTech Leader in Scalable ML Systems*
 
-Building scalable ML pipelines and recommendation engines to drive impact in HealthTech & Entertainment.
+---
+
+### Quick Stats
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shilpamusale&theme=default) -->
+
+- **Experience:** 3+ years in ML/AI engineering  
+- **Publications:** 1 peer-reviewed healthcare AI paper  
+- **Key Domains:** HealthTech, Recommender Systems, MLOps   
+---
 
 ## Skills & Tools
 
@@ -24,26 +33,15 @@ Building scalable ML pipelines and recommendation engines to drive impact in Hea
 
 ## Current Projects
 
-| Project                                                                 | Description                                                                                         |
-|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Project                                                                                 | Description                                                                                         |
+|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | **[adk-hallucination-shield](https://github.com/shilpamusale/adk-hallucination-shield)**| A framework leveraging Google’s ADK to compare RAG, CoT, and NLI agent architectures for reducing hallucinations in AI chatbots. |
-| **[nutri-serve-ai](https://github.com/shilpamusale/nutri-serve-ai)**| Personalized AI nutrition expert powered by RAG and Google Gemini, wrapped in FastAPI/Gradio with full CI/CD MLOps. |
-| **[Claim-Flow-Engine](https://github.com/shilpamusale/claim-flow-engine)** | End-to-end ML pipeline for healthcare claim denial prediction, clustering, and routing (Streamlit + API) |
-| **[ReadmitRx](https://github.com/shilpamusale/ReadmitRx)**               | ED readmission risk scoring and CHW intervention optimizer, domain-agnostic design                   |
-
-| **RecMindX (coming soon)**                                              | Netflix-style two-tower recommender system built on MovieLens                                        |
+| **[nutri-serve-ai](https://github.com/shilpamusale/nutri-serve-ai)**                    | Personalized AI nutrition expert powered by RAG and Google Gemini, wrapped in FastAPI/Gradio with full CI/CD MLOps. |
+| **[Claim-Flow-Engine](https://github.com/shilpamusale/claim-flow-engine)**              | End-to-end ML pipeline for healthcare claim denial prediction, clustering, and routing (Streamlit + API).|
+| **[ReadmitRx](https://github.com/shilpamusale/ReadmitRx)**                              | ED readmission risk scoring and CHW intervention optimizer, domain-agnostic design.|
+| **RecMindX (coming soon)**                                                              | Netflix-style two-tower recommender system built on MovieLens.|
 
 **Roadmap →** Next up: **RecMindX** – building a Netflix-style two-tower recommender with MovieLens.
-
----
-
-## Quick Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shilpamusale&theme=default)
-
-- **Experience:** 3+ years in ML/AI engineering  
-- **Publications:** 1 peer-reviewed healthcare AI paper  
-- **Key Domains:** HealthTech, Recommender Systems, MLOps  
 
 ---
 
