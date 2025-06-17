@@ -26,9 +26,11 @@ Building scalable ML pipelines and recommendation engines to drive impact in Hea
 
 | Project                                                                 | Description                                                                                         |
 |-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **[adk-hallucination-shield](https://github.com/shilpamusale/adk-hallucination-shield)**| A framework leveraging Google’s ADK to compare RAG, CoT, and NLI agent architectures for reducing hallucinations in AI chatbots. |
+| **[nutri-serve-ai](https://github.com/shilpamusale/nutri-serve-ai)**| Personalized AI nutrition expert powered by RAG and Google Gemini, wrapped in FastAPI/Gradio with full CI/CD MLOps. |
 | **[Claim-Flow-Engine](https://github.com/shilpamusale/claim-flow-engine)** | End-to-end ML pipeline for healthcare claim denial prediction, clustering, and routing (Streamlit + API) |
 | **[ReadmitRx](https://github.com/shilpamusale/ReadmitRx)**               | ED readmission risk scoring and CHW intervention optimizer, domain-agnostic design                   |
-| **[MedSentinel](https://github.com/shilpamusale/medsentinel)**           | GenAI-powered medical Q&A agent with chain-of-thought prompting, fallback abstention, and Streamlit UI |
+
 | **RecMindX (coming soon)**                                              | Netflix-style two-tower recommender system built on MovieLens                                        |
 
 **Roadmap →** Next up: **RecMindX** – building a Netflix-style two-tower recommender with MovieLens.
