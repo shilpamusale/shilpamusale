@@ -6,18 +6,14 @@
 
 ### Quick Stats
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shilpamusale&theme=default) -->
-
 - **Experience:** 3+ years in ML/AI engineering  
 - **Publications:** 1 peer-reviewed healthcare AI paper  
 - **Key Domains:** HealthTech, Recommender Systems, MLOps   
 ---
-
 ## Skills & Tools
 
 <p align="left">
-  <!-- Tech Stack Badges -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -35,8 +31,8 @@
 
 | Project                                                                                 | Description                                                                                         |
 |-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **[adk-hallucination-shield](https://github.com/shilpamusale/adk-hallucination-shield)**| A framework leveraging Google’s ADK to compare RAG, CoT, and NLI agent architectures for reducing hallucinations in AI chatbots. |
-| **[nutri-serve-ai](https://github.com/shilpamusale/nutri-serve-ai)**                    | Personalized AI nutrition expert powered by RAG and Google Gemini, wrapped in FastAPI/Gradio with full CI/CD MLOps. |
+| **[adk-hallucination-shield](https://github.com/shilpamusale/adk-hallucination-shield)**| A framework leveraging Google’s ADK to compare RAG, CoT, and NLI agent architectures for reducing hallucinations in LLMs.|
+| **[nutri-serve-ai](https://github.com/shilpamusale/nutri-serve-ai)**                    | Personalized AI nutrition expert powered by RAG and Google Gemini, wrapped in FastAPI/Gradio with full CI/CD.|
 | **[Claim-Flow-Engine](https://github.com/shilpamusale/claim-flow-engine)**              | End-to-end ML pipeline for healthcare claim denial prediction, clustering, and routing (Streamlit + API).|
 | **[ReadmitRx](https://github.com/shilpamusale/ReadmitRx)**                              | ED readmission risk scoring and CHW intervention optimizer, domain-agnostic design.|
 | **RecMindX (coming soon)**                                                              | Netflix-style two-tower recommender system built on MovieLens.|
@@ -58,6 +54,7 @@
 More on my [Blog](https://github.com/shilpamusale/the-code-diary)
 
 ---
+
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/shilpamusale)  | [Email](mailto:shilpa.musale02@gmail.com) | [Portfolio](https://shilpamusale.github.io/ishi-ai)  
