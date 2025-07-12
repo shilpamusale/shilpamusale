@@ -35,7 +35,7 @@
 | **[nutri-serve-ai](https://github.com/shilpamusale/nutri-serve-ai)**                    | Personalized AI nutrition expert powered by RAG and Google Gemini, wrapped in FastAPI/Gradio with full CI/CD.|
 | **[Claim-Flow-Engine](https://github.com/shilpamusale/claim-flow-engine)**              | End-to-end ML pipeline for healthcare claim denial prediction, clustering, and routing (Streamlit + API).|
 | **[ReadmitRx](https://github.com/shilpamusale/ReadmitRx)**                              | ED readmission risk scoring and CHW intervention optimizer, domain-agnostic design.|
-| **RecMindX (coming soon)**                                                              | Netflix-style two-tower recommender system built on MovieLens.|
+<!-- | **RecMindX (coming soon)**                                                              | Netflix-style two-tower recommender system built on MovieLens.| -->
 
 **Roadmap →** Next up: **RecMindX** – building a Netflix-style two-tower recommender with MovieLens.
 
