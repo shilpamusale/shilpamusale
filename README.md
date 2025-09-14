@@ -11,8 +11,7 @@ AI/ML Engineer with 3+ years of experience specializing in **Generative AI** and
 ---
 ## Featured Publications
 
-- **Leveraging Community Health Workers for Unsupervised Readmission Prediction** – *International Journal of Semantic Computing, Vol. 18, No. 01, April 2024*
-
+- [Leveraging Community Health Workers for Unsupervised Readmission Prediction]([https://your-paper-url-here.com](https://www.worldscientific.com/doi/abs/10.1142/S1793351X24420030)) – International Journal of Semantic Computing, Vol. 18, No. 01, April 2024
 ---
 
 ## Pinned Projects
