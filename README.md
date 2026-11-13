@@ -6,15 +6,11 @@
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shilpa.musale02@gmail.com)
 [<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />](https://orcid.org/0009-0001-6334-0614)
 
-📍 Chicago, IL · Open to AI/ML Engineer roles
+📍 Chicago, IL (open to remote) · Seeking ML Engineer, Research Engineer and Applied Research roles in LLM evaluation and healthcare AI
 
 ---
 
-I build and evaluate ML and LLM systems, with healthcare claims and clinical data as the proving ground.
-
-- **10 years at R1 RCM**: progressed from software developer to Technology Lead and owned the Denials & Follow-up product across all client health systems, including human-in-the-loop review by denial specialists.
-- **Evaluation first**: gold sets, multi-trial scoring, error analysis and CI regression gates. On a clinical LLM agent, error analysis raised the pass rate from **75% to 92%**.
-- **Research**: co-author of peer-reviewed work on predicting readmissions from Community Health Worker data.
+I'm an AI/ML engineer who builds and evaluates ML and LLM systems, with healthcare claims and clinical data as the proving ground. Over 10 years at R1 RCM, I progressed from software developer to Technology Lead and owned the Denials & Follow-up product: rules-driven A/R prioritization and routing on daily claims and remittance data (EDI 837/835), with human-in-the-loop review by denial specialists. I build evaluation first: gold datasets, benchmarks, ablations, multi-trial scoring and CI regression gates. On a clinical LLM agent, error analysis raised the pass rate from **75% to 92%**. I'm also a co-author of peer-reviewed research on predicting readmissions from Community Health Worker data.
 
 ---
 
