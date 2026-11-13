@@ -1,12 +1,12 @@
 # Shilpa Musale
 
-### AI / ML Engineer · LLM Evaluation · Healthcare Data
+### AI / ML Engineer · LLM Systems & Evaluation · Applied Healthcare AI
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/shilpamusale)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shilpa.musale02@gmail.com)
 [<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />](https://orcid.org/0009-0001-6334-0614)
 
-📍 Chicago, IL (open to remote) · Seeking ML Engineer, Research Engineer and Applied Research roles in LLM evaluation and healthcare AI
+📍 Chicago, IL (open to remote) · Seeking ML Engineer, Research Engineer and Applied Research roles in LLM Systems & Evaluation and healthcare AI
 
 ---
 
@@ -22,7 +22,8 @@ I'm an AI/ML engineer who builds and evaluates ML and LLM systems, with healthca
 | **[priorauth-ai](https://github.com/shilpamusale/priorauth-ai)** | Agentic prior-authorization workflow. Takes FHIR R4 bundles through policy retrieval and criteria matching, then routes each request to submission, documentation follow-up or human review. Decisions are computed in code from cited evidence, with an audit trail and a gold-set CI gate. | `Claude API`, `Pydantic`, `ChromaDB`, `Pytest`, `GitHub Actions` |
 | **[claim-triage-ai](https://github.com/shilpamusale/claim-triage-ai)** | Denial prediction, denial-reason clustering and rule-based A/R work routing on simulated claims, served through FastAPI. | `XGBoost`, `LightGBM`, `Sentence-BERT`, `UMAP`, `HDBSCAN`, `FastAPI`, `Docker` |
 | **[scholar-agent](https://github.com/shilpamusale/scholar-agent)** | Multi-agent research assistant that routes each question to Neo4j graph queries or vector search, with bounded retries and a routing policy unit-tested without a model. | `LangGraph`, `LangChain`, `Gemini API`, `Neo4j`, `ChromaDB` |
-| **Cross-Site Otoscopy Domain Adaptation** | Cross-site deep-learning study with Northwestern Feinberg and Rosalind Franklin University. Benchmarked three domain-adaptation methods (DANN, MCC, CORAL) on a ResNet50 classifier and used occlusion analysis to test robustness vs. shortcut learning. *(co-first author; submitted for publication)* | `PyTorch`, `ResNet50`, `Domain Adaptation` |
+| **[codeexec-rl](https://github.com/shilpamusale/codeexec-rl)** | Execution-grounded RL environment for code generation, testing whether optimizing against visible tests widens the gap between passing tests and being correct. Hypotheses were pre-registered before any code. Built a Docker sandbox for untrusted code (~39 executions/s), ran a contamination check (clean) and measured the pre-training gap (+12.0 pp). Next: GRPO training runs on Qwen2.5-Coder-1.5B. | `GRPO`, `TRL`, `Qwen2.5-Coder-1.5B`, `Docker`, `EvalPlus (MBPP+)`, `Pytest`, `GitHub Actions` |
+<!-- | **Cross-Site Otoscopy Domain Adaptation** | Cross-site deep-learning study with Northwestern Feinberg and Rosalind Franklin University. Benchmarked three domain-adaptation methods (DANN, MCC, CORAL) on a ResNet50 classifier and used occlusion analysis to test robustness vs. shortcut learning. *(co-first author; submitted for publication)* | `PyTorch`, `ResNet50`, `Domain Adaptation` |-->
 
 ---
 
