@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shilpa.musale02@gmail.com)
 [<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />](https://orcid.org/0009-0001-6334-0614)
 
-📍 Chicago, IL (open to remote) · Seeking ML Engineer, Research Engineer and Applied Research roles in LLM Systems & Evaluation and healthcare AI
+📍 Chicago, IL (open to relocation) · Seeking ML Engineer, Research Engineer and Applied Research roles in LLM Systems & Evaluation and healthcare AI
 
 ---
 
